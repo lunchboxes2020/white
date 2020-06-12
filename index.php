@@ -2,6 +2,7 @@
 <html>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <head>
+  	
 	<title>Ланч-бокс – контейнер для еды с подогревом</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Контейнер с подогревом – самая удобная вещь для тех, кто часто находится вне дома и не имеет возможности есть горячую пищу. Положите вкусный обед в ланч-бокс с подогревом и наслаждайтесь горячей, ароматной едой в любое время и в любом месте.">
